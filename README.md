@@ -1,10 +1,10 @@
-🦾 Ultimate Gesture Control System
+# 🦾 Ultimate Gesture Control System
 
-AI-Powered Hand Gesture Recognition for Touchless Computer Control
+# AI-Powered Hand Gesture Recognition for Touchless Computer Control
 
 Experience the future of human-computer interaction with our cutting-edge gesture recognition system that turns your hand movements into powerful commands!
 
-✨ Revolutionary Features
+# ✨ Revolutionary Features
 
 🎯 30+ Intelligent Gestures - Mouse control, clicks, scrolling, volume, brightness, and more
 🎨 Multiple Interactive Modes - Drawing, Gaming, Presentation, and Custom modes
@@ -12,16 +12,16 @@ Experience the future of human-computer interaction with our cutting-edge gestur
 📊 Smart Analytics - Track usage patterns and export detailed session statistics
 🖐️ Zero-Contact Control - Complete touchless operation for enhanced hygiene
 
-🛠️ Tech Stack Powerhouse
+# 🛠️ Tech Stack Powerhouse
 
 Python 3.12 - Latest stable version
 MediaPipe - Google's advanced ML hand tracking
 OpenCV - Real-time computer vision processing
 PyAutoGUI - Seamless system integration
 NumPy - High-performance mathematical operations
-🚀 Quick Start Guide
 
-bash
+# 🚀 Quick Start Guide
+
 # Clone the repository
 git clone https://github.com/yourusername/gesture-control.git
 cd gesture-control
@@ -37,7 +37,7 @@ pip install -r requirements.txt
 python app.py
 🎮 Gesture Mastery Guide
 
-Gesture	Command	Emoji
+# Gesture	Command	Emoji
 👆 1 Finger	Move Cursor	🖱️
 👌 Pinch	Left Click	✅
 ✌️ Peace	Right Click	🖱️➡️
